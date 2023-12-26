@@ -1,2 +1,3 @@
 # FuckSB
-英雄联盟（LOL）怼人工具，不建议随便用，但是遇到实在脑子有问题的，那还是以暴制暴吧。
+项目已经更名为 “英雄联盟家人保护器”，项目地址：
+[LOL_Family_Protector](https://github.com/MisterZakary/LOL_Family_Protector)
